@@ -2,7 +2,7 @@
 
 # 🐹🍦 **Python Language**
 
-(google homepage)(https://www.google.com/)
+([google homepage(https://www.google.com/))
 
 ## **Learning Python** using **Colab** ([Visit Colab homepage](https://colab.research.google.com/?utm_source=scs-index)) and **Github** ([Visit Github homepage](https://github.com/))
 
@@ -17,6 +17,11 @@
 ### **4. Markdown Language**
 *[Emoji](https://gist.github.com/rxaviers/7360908)
 *[Markdown syntax](https://www.markdownguide.org/basic-syntax/)
+
+|#|Sessions|Keywords|
+|:-:|:-:|:-:|
+|1|Markdown Language|[font size, hyperlink, bullet points(https://github.com/lidiacitra07/Graduate_Fall2023/blob/main/0_MarkDown4README_md.ipynb)
+
 
 ### **5. Class Materials**
 | # | Sessions | Keywords |
