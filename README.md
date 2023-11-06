@@ -20,7 +20,7 @@
 
 |#|Sessions|Keywords|
 |:-:|:-:|:-:|
-|1|Markdown Language|[font size, hyperlink, bullet points(https://github.com/lidiacitra07/Graduate_Fall2023/blob/main/0_MarkDown4README_md.ipynb)
+|1|Markdown Language|[(font size, hyperlink, bullet points(https://github.com/lidiacitra07/Graduate_Fall2023/blob/main/0_MarkDown4README_md.ipynb)]
 
 
 ### **5. Class Materials**
